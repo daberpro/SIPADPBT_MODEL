@@ -1,0 +1,10 @@
+#pragma once
+#include <iostream>
+#include <filesystem>
+#include <string.h>
+#include <matplot/matplot.h>
+#include <single_include/nlohmann/json.hpp>
+#include <fstream>
+#include <vector>
+#include <chrono>
+#include <iomanip>

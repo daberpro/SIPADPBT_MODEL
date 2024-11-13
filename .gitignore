@@ -1,0 +1,5 @@
+.vscode/
+build/
+XAI/
+/XAI/build/XAI.vcxproj
+/XAI/build/XAI.vcxproj.filters
